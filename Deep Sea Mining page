@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Deep Sea Mining</title>
+    </head>
+    <body>
+        <main>
+            <h1>Deep Sea Mining</h1>
+            <section>
+                <h2>Is it truly a solution for clean energy?</h2>
+                <figure>
+                    <img src="https://images.unsplash.com/photo-1468581264429-2548ef9eb732?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="a blue sea">
+                    <figcaption>The sea stores truly valuable mineral sources.</figcaption>
+                </figure>
+                <p>The world is facing the <em>increasingly</em> depleting mineral supply and we are ought to find an alternative to fulfil industrial demand.</p>
+
+            </section>
+        </main>
+        
+        
+
+    </body>
